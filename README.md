@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-neves&layout=compact&theme=radical)
 
 ## 📫 Contato
-- LinkedIn: [linkedin.com/in/alexandre-neves]([https://www.linkedin.com/in/alexandre-neves/](https://www.linkedin.com/in/alexandre-neves-a15796256/))
-- Email: [alexandre.neves@example.com](mailto:midiale@gmail.com)
+- LinkedIn: [linkedin.com/in/alexandre-neves-a15796256/]((https://www.linkedin.com/in/alexandre-neves-a15796256/))
+- Email: [midiale@gmail.com](mailto:midiale@gmail.com)
 
 🚀 Vamos conectar e colaborar em projetos incríveis!
