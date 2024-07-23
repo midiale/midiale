@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Alexandre Neves!
 
-<!--
-**midiale/midiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor Backend C# Junior com paixão por tecnologia e desenvolvimento de software. Sempre buscando aprender e evoluir na área de programação!
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- 💻 C#
+- 🛠️ .Net
+- 🗄️ EntityFramework
+- 🗃️ SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Alexandre Neves's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre-neves&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-neves&layout=compact&theme=radical)
+
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/alexandre-neves](https://www.linkedin.com/in/alexandre-neves/)
+- Email: [alexandre.neves@example.com](mailto:alexandre.neves@example.com)
+
+🚀 Vamos conectar e colaborar em projetos incríveis!
